@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Burj Khalifa",
+    "height": 828,
+    "floors": 163,
+    "year": 2010,
+    "description": "Dubai, United Arab Emirates"
+  },
+  {
+    "id": 2,
+    "name": "Shanghai Tower",
+    "height": 632,
+    "floors": 97,
+    "year": 2008,
+    "description": "Lujiazui, Pudong, Shanghai"
+  },
+  {
+    "id": 3,
+    "name": "Abraj Al-Bait Clock Tower",
+    "height": 601,
+    "floors": 120,
+    "year": 2012,
+    "description": "Mecca, Saudi Arabia"
+  },
+  {
+    "id": 4,
+    "name": "Ping An Finance Center",
+    "height": 555,
+    "floors": 34,
+    "year": 2012,
+    "description": "Futian CBD, Futian District, Shenzhen, China"
+  },
+  {
+    "id": 5,
+    "name": "LotteWorldTower",
+    "height": 555,
+    "floors": 123,
+    "year": 2017,
+    "description": "Olympic-ro, Jamsil 6(yuk)-dong, Songpa-gu, Seoul"
+  }
+]
